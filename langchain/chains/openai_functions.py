@@ -155,7 +155,9 @@ in the following passage together with their properties.
 
 Only extract the properties mentioned in the 'information_extraction' function.
 
-If a property is not present and is not required in the function parameters, do not include it in the output.
+If a property is not present and is not required in the function parameters,\
+
+do not include it in the output.
 
 Passage:
 {input}
